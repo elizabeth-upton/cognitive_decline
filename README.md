@@ -5,4 +5,4 @@ File 1: Stacking_Bootstrapping.R (shows the stacked model framework via tidymode
 
 File 2: Clustering_Code.R (shows functions used for clustering the bootstrapped stacked models)
 
-To replicate the analysis, you need to download and preprocess the data according to the steps described in the manuscript.  
+To replicate the analysis, you need to download and preprocess the data according to the steps described in the manuscript.  Additional instructions can be provided by request!  
